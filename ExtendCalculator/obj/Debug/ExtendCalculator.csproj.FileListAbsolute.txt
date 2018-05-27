@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\bin\Debug\ExtendCalculator.exe.config
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\bin\Debug\ExtendCalculator.exe
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\bin\Debug\ExtendCalculator.pdb
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\bin\Debug\IronPython.dll
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\obj\Debug\ExtendCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\obj\Debug\ExtendCalculator.Form1.resources
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\obj\Debug\ExtendCalculator.Properties.Resources.resources
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\obj\Debug\ExtendCalculator.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\obj\Debug\ExtendCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\obj\Debug\ExtendCalculator.csproj.CopyComplete
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\obj\Debug\ExtendCalculator.exe
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\obj\Debug\ExtendCalculator.pdb
+C:\Users\Adam\source\repos\ExtendCalculator\ExtendCalculator\bin\Debug\IronPython.Modules.dll
